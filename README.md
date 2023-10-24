@@ -25,11 +25,7 @@
 - 3° Clique em OK.
   
 ## Pré requisitos 
-- SO | Mínimo: Microsoft Windows 8 de 64 bits	| Recomendado: Versão de 64 bits mais recente do Windows
-- RAM	 | Mínimo: 8 GB de RAM	| Recomendado: 16 GB de RAM ou mais
-- CPU | Mínimo:	Arquitetura de CPU x86_64, Intel Core de segunda geração ou mais recente ou CPU AMD com suporte ao Hypervisor Framework do Windows | Recomendado: Processador Intel Core mais recente
-- Espaço em disco	| Mínimo: 8 GB (ambiente de desenvolvimento integrado, Android Emulator e SDK do Android) | Recomendado: Unidade de estado sólido (SSD) com 16 GB ou mais
-- Resolução da tela	| Mínimo: 1280 x 800	| Recomendado: 1920 x 1080
+- Android 8.0
   
 ## Autores 
 - Vitória Reis - https://github.com/rmviitoria
